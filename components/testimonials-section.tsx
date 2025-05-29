@@ -33,7 +33,7 @@ export function TestimonialsSection() {
         <div className="text-center mb-16">
           <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">What Our Clients Say</h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Don't just take our word for it. Here's what our satisfied clients have to say about their experience with
+            Do not just take our word for it. Here is what our satisfied clients have to say about their experience with
             us.
           </p>
         </div>
@@ -47,7 +47,7 @@ export function TestimonialsSection() {
                     <Star key={i} className="h-5 w-5 text-yellow-400 fill-current" />
                   ))}
                 </div>
-                <p className="text-gray-600 mb-6 italic">"{testimonial.text}"</p>
+                <p className="text-gray-600 mb-6 italic">{testimonial.text}</p>
                 <div className="flex items-center">
                 {testimonial.image ? (
                     <img

@@ -17,7 +17,7 @@ export function HeroSection() {
                 <span className="block text-pink-300">Under One Roof</span>
               </h1>
               <p className="text-xl lg:text-2xl text-purple-100 mt-6">
-                Transform your look and your body at Randell & Dean's - where premium hair salon services meet 24/7
+                Transform your look and your body at Randell & Deans - where premium hair salon services meet 24/7
                 fitness excellence.
               </p>
             </div>

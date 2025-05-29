@@ -7,7 +7,7 @@ export function Footer() {
         <div className="grid lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="lg:col-span-2">
-            <h3 className="text-2xl font-bold mb-4">Randell & Dean's Salon & 24 Hr Gym</h3>
+            <h3 className="text-2xl font-bold mb-4">Randell & Deans Salon & 24 Hr Gym</h3>
             <p className="text-gray-300 mb-6 max-w-md">
               Your premier destination for beauty and fitness in Garden City, GA. Where looking good and feeling great
               come together under one roof.
@@ -115,7 +115,7 @@ export function Footer() {
 
         {/* Copyright */}
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
-          <p className="text-gray-400">© 2025 Randell & Dean's Salon & 24 Hr Gym. All rights reserved.</p>
+          <p className="text-gray-400">© 2025 Randell & Deans Salon & 24 Hr Gym. All rights reserved.</p>
         </div>
       </div>
     </footer>

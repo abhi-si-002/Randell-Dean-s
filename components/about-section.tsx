@@ -28,9 +28,9 @@ export function AboutSection() {
     <section id="about" className="py-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">About Randell & Dean's</h2>
+          <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">About Randell & Deans</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Located in the heart of Garden City, GA, we're revolutionizing the way you think about beauty and fitness.
+            Located in the heart of Garden City, GA, we are revolutionizing the way you think about beauty and fitness.
             Our unique concept combines premium salon services with a fully equipped 24-hour gym facility.
           </p>
         </div>
@@ -39,26 +39,26 @@ export function AboutSection() {
           <div>
             <h3 className="text-2xl font-bold text-gray-900 mb-6">Our Story</h3>
             <p className="text-gray-600 mb-6">
-              Randell & Dean's was born from a simple idea: why should you have to choose between looking good and
+              Randell & Deans was born from a simple idea: why should you have to choose between looking good and
               feeling good? Our founders recognized that true wellness comes from taking care of both your appearance
               and your physical health.
             </p>
             <p className="text-gray-600 mb-6">
-              We've created a space where you can get a fresh haircut in the morning and hit the gym at midnight, or
-              squeeze in a workout before your color appointment. It's convenience, quality, and community all in one
+              We have created a space where you can get a fresh haircut in the morning and hit the gym at midnight, or
+              squeeze in a workout before your color appointment. It is convenience, quality, and community all in one
               place.
             </p>
             <div className="bg-purple-100 p-6 rounded-lg">
               <p className="text-purple-800 font-medium">
-                "Your journey to looking and feeling your best starts here. We're not just a salon or just a gym - we're
-                your partners in total wellness."
+                Your journey to looking and feeling your best starts here. We are not just a salon or just a gym - we are
+                your partners in total wellness.
               </p>
             </div>
           </div>
           <div className="relative">
             <img
               src="https://s3-media0.fl.yelpcdn.com/bphoto/uQnmgRXG7Bpt-9UMZMXJ-A/o.jpg"
-              alt="About Randell & Dean's"
+              alt="About Randell & Deans"
               className="rounded-lg shadow-lg"
             />
           </div>

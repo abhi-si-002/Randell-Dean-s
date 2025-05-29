@@ -23,7 +23,7 @@ export function Navbar() {
           {/* Logo */}
           <div className="flex-shrink-0">
             <h1 className="text-xl font-bold text-gray-900">
-              Randell & Dean's
+              Randell & Deans
               {/* <span className="block text-sm font-medium text-purple-600">Salon & 24 Hr Gym</span> */}
             </h1>
           </div>
